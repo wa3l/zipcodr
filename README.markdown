@@ -19,5 +19,3 @@ Usage
   `Zipcodr::find('94720').long    # returns a longitude integer.`  
   `Zipcodr::find('94720').lat     # returns a latitude integer.`  
   `Zipcodr::find('94720').valid?  # returns a validity boolean.`
-
----
