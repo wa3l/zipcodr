@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Wael Al-Sallami"]
   s.email       = ["wael.alsallami@gmail.com"]
-  s.homepage    = "wa3l.com"
+  s.homepage    = "http://wa3l.com"
   s.summary     = %q{A library for looking up zip codes and their associated info.}
   s.description = %q{A library for looking up zip codes and their associated info.}
 
